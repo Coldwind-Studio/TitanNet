@@ -1,3 +1,1 @@
-remote_theme: sighingnow/jekyll-gitbook
-toc:
-    enabled: true
+remote_theme: jekyll-theme-cayman
